@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Iteracje/Iteracje.iml" filepath="$PROJECT_DIR$/Iteracje/Iteracje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Learn_Java.iml" filepath="$PROJECT_DIR$/.idea/Learn_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PodejmujemyDecyzje/PodejmujemyDecyzje.iml" filepath="$PROJECT_DIR$/PodejmujemyDecyzje/PodejmujemyDecyzje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramowanieObiektowe/ProgramowanieObiektowe.iml" filepath="$PROJECT_DIR$/ProgramowanieObiektowe/ProgramowanieObiektowe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProsteWyjsciaWejscia/ProsteWyjsciaWejscia.iml" filepath="$PROJECT_DIR$/ProsteWyjsciaWejscia/ProsteWyjsciaWejscia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tablice/Tablice.iml" filepath="$PROJECT_DIR$/Tablice/Tablice.iml" />
+    </modules>
+  </component>
+</project>
